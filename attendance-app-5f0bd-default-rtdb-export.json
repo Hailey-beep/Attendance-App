@@ -1,0 +1,16 @@
+{
+  "class" : {
+    "01" : {
+      "name" : "gregory",
+      "roll_no" : 1
+    },
+    "02" : {
+      "name" : "hank",
+      "roll_no" : 2
+    },
+    "03" : {
+      "name" : "lucy",
+      "roll_no" : 3
+    }
+  }
+}
